@@ -28,3 +28,4 @@ C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Application\ob
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Application\obj\Debug\net9.0\refint\MajesticRoutePlanner.Application.dll
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Application\obj\Debug\net9.0\MajesticRoutePlanner.Application.pdb
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Application\obj\Debug\net9.0\ref\MajesticRoutePlanner.Application.dll
+C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Application\obj\Debug\net9.0\MajesticRoutePlanner.Application.sourcelink.json
