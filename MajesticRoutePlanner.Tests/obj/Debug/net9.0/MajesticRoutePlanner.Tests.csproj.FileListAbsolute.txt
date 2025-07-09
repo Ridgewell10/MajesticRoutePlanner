@@ -429,3 +429,4 @@ C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Tests\obj\Debu
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Tests\obj\Debug\net9.0\MajesticRoutePlanner.Tests.pdb
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Tests\obj\Debug\net9.0\MajesticRoutePlanner.Tests.genruntimeconfig.cache
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Tests\obj\Debug\net9.0\ref\MajesticRoutePlanner.Tests.dll
+C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Tests\obj\Debug\net9.0\MajesticRoutePlanner.Tests.sourcelink.json

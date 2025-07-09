@@ -691,3 +691,4 @@ C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Api\obj\Debug\
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Api\obj\Debug\net9.0\MajesticRoutePlanner.Api.pdb
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Api\obj\Debug\net9.0\MajesticRoutePlanner.Api.genruntimeconfig.cache
 C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Api\obj\Debug\net9.0\ref\MajesticRoutePlanner.Api.dll
+C:\Project\source\repos\MajesticRoutePlanner\MajesticRoutePlanner.Api\obj\Debug\net9.0\MajesticRoutePlanner.Api.sourcelink.json
