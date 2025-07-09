@@ -1,0 +1,35 @@
+name: Majestic CI
+
+on:
+  push:
+    branches:
+      - master
+      - develop
+      - feature/**
+  pull_request:
+    branches:
+      - master
+      - develop
+      - feature/**
+      
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: ⏳ Checkout code
+      uses: actions/checkout@v3
+
+    - name: 🧰 Setup .NET SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '9.0.x'
+
+    - name: 📦 Restore dependencies
+      run: dotnet restore MajesticRoutePlanner.sln
+
+    - name: 🔨 Build solution
+      run: dotnet build MajesticRoutePlanner.sln --no-restore --configuration Release
+
+    - name: 🧪 Run tests
+      run: dotnet test MajesticRoutePlanner.Tests/MajesticRoutePlanner.Tests.csproj --no-build --configuration Release
