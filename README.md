@@ -2,18 +2,6 @@
 
 **MajesticRoutePlanner** is a distributed route planning API built with reliability, observability, and scalability in mind. It leverages modern .NET practices, containerized deployment, and full-stack observability via Prometheus and Grafana.
 
----
-
-## 🧭 Motivation
-
-We built MajesticRoutePlanner to:
-
-- Showcase clean architecture principles in .NET 9
-- Enable end-to-end observability and diagnostics via metrics
-- Deliver scalable, testable backend services with RabbitMQ messaging
-- Automate developer flows with container orchestration and CI/CD hooks
-
----
 
 ## 📦 Tech Stack
 
