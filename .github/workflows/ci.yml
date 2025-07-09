@@ -11,9 +11,9 @@ on:
       - master
       - develop
       - feature/**
-      
+
 jobs:
-  build-and-test:
+  build-test:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,11 +25,18 @@ jobs:
       with:
         dotnet-version: '9.0.x'
 
-    - name: 📦 Restore dependencies
-      run: dotnet restore MajesticRoutePlanner.sln
+    - name: 🐳 Build and start containers
+      run: |
+        docker compose -f docker-compose.yml up -d --build
 
-    - name: 🔨 Build solution
-      run: dotnet build MajesticRoutePlanner.sln --no-restore --configuration Release
+    - name: 🕒 Wait for API to respond
+      run: |
+        timeout=60
+        until curl --silent --fail http://localhost:5050/swagger || [ $timeout -le 0 ]; do
+          echo "Waiting for API..."
+          sleep 5
+          timeout=$((timeout - 5))
+        done
 
     - name: 🧪 Run tests
-      run: dotnet test MajesticRoutePlanner.Tests/MajesticRoutePlanner.Tests.csproj --no-build --configuration Release
+      run: dotnet test MajesticRoutePlanner.Tests/MajesticRoutePlanner.Tests.csproj --configuration Release --no-build

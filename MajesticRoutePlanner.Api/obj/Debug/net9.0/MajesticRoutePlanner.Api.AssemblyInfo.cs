@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MajesticRoutePlanner.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065f994371d5b3bf262ae2dde6d5728b81053ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9d0e67f4b99657b1eb262679a97bc8b378c625")]
 [assembly: System.Reflection.AssemblyProductAttribute("MajesticRoutePlanner.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MajesticRoutePlanner.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
