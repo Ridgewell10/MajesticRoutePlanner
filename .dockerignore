@@ -1,0 +1,29 @@
+# Ignore Visual Studio artifacts
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# Ignore node/npm folders if present
+node_modules/
+npm-debug.log
+*.tgz
+
+# Ignore test results and coverage
+TestResults/
+coverage/
+
+# Ignore Docker files in root context you don’t want copied
+docker-compose.yml
+docker-compose.override.yml
+*.env
+
+# Ignore logs
+*.log
+logs/

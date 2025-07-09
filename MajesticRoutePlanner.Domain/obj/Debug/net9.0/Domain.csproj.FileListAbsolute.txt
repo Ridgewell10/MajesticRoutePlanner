@@ -1,0 +1,11 @@
+C:\Project\source\repos\MajesticRoutePlanner\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Project\source\repos\MajesticRoutePlanner\Domain\bin\Debug\net9.0\Domain.dll
+C:\Project\source\repos\MajesticRoutePlanner\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\Domain.dll
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Project\source\repos\MajesticRoutePlanner\Domain\obj\Debug\net9.0\ref\Domain.dll

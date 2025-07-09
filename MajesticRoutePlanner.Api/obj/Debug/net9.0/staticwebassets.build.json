@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "J4wSpTusgem3BIE7maDAmNzhjcvXWEHjiZGnJsUVY64=",
+  "Source": "MajesticRoutePlanner.Api",
+  "BasePath": "_content/MajesticRoutePlanner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

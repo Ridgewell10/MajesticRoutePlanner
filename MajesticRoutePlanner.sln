@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajesticRoutePlanner.Domain", "MajesticRoutePlanner.Domain\MajesticRoutePlanner.Domain.csproj", "{E5BA6E58-5B15-429A-9703-D83254FD94D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajesticRoutePlanner.Infrastructure", "MajesticRoutePlanner.Infrastructure\MajesticRoutePlanner.Infrastructure.csproj", "{14C1D8C9-7ABE-4461-A7B5-FF6C840B05B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajesticRoutePlanner.Application", "MajesticRoutePlanner.Application\MajesticRoutePlanner.Application.csproj", "{8113DDAB-5478-41D5-A6BB-1C692159FBE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajesticRoutePlanner.Api", "MajesticRoutePlanner.Api\MajesticRoutePlanner.Api.csproj", "{E07C692B-8FB7-4E39-9B95-6C7F3E1C1CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajesticRoutePlanner.Tests", "MajesticRoutePlanner.Tests\MajesticRoutePlanner.Tests.csproj", "{5BC1531F-B9C2-409B-9445-9BA9BEB272A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5BA6E58-5B15-429A-9703-D83254FD94D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BA6E58-5B15-429A-9703-D83254FD94D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BA6E58-5B15-429A-9703-D83254FD94D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BA6E58-5B15-429A-9703-D83254FD94D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C1D8C9-7ABE-4461-A7B5-FF6C840B05B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C1D8C9-7ABE-4461-A7B5-FF6C840B05B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C1D8C9-7ABE-4461-A7B5-FF6C840B05B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C1D8C9-7ABE-4461-A7B5-FF6C840B05B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8113DDAB-5478-41D5-A6BB-1C692159FBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8113DDAB-5478-41D5-A6BB-1C692159FBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8113DDAB-5478-41D5-A6BB-1C692159FBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8113DDAB-5478-41D5-A6BB-1C692159FBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07C692B-8FB7-4E39-9B95-6C7F3E1C1CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07C692B-8FB7-4E39-9B95-6C7F3E1C1CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07C692B-8FB7-4E39-9B95-6C7F3E1C1CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07C692B-8FB7-4E39-9B95-6C7F3E1C1CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC1531F-B9C2-409B-9445-9BA9BEB272A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC1531F-B9C2-409B-9445-9BA9BEB272A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC1531F-B9C2-409B-9445-9BA9BEB272A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC1531F-B9C2-409B-9445-9BA9BEB272A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

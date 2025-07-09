@@ -1,0 +1,6 @@
+{
+  "MajesticRoutePlanner.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\source\\repos\\MajesticRoutePlanner\\MajesticRoutePlanner.Api",
+  "MajesticRoutePlanner.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\source\\repos\\MajesticRoutePlanner\\MajesticRoutePlanner.Application",
+  "MajesticRoutePlanner.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\source\\repos\\MajesticRoutePlanner\\MajesticRoutePlanner.Domain",
+  "MajesticRoutePlanner.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\source\\repos\\MajesticRoutePlanner\\MajesticRoutePlanner.Infrastructure"
+}

@@ -1,0 +1,15 @@
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Project\source\repos\MajesticRoutePlanner\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

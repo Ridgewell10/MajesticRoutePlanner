@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MajesticRoutePlanner.Api.Controllers.RouteController",
+    "Method": "GetOptimalRoute",
+    "RelativePath": "api/Route/optimal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MajesticRoutePlanner.Application.DTOs.RouteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
